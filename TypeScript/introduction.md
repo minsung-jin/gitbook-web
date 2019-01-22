@@ -20,7 +20,7 @@
         2. 편리하지만 러닝커브가 있다.
     2. 정적 타입의 특성을 갖지 않는다.
 
-* [Draft](https://www.dartlang.org/)
+* [Drat](https://www.dartlang.org/)
     1. Draft는 JavaScript와 다른 문법을 사용한다.
     2. Draft는 JavaScript 구조와 다른 새로운 구조를 만들었다.
     3. 대규모 프로젝트에 적합하다.
