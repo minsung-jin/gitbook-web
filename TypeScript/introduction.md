@@ -25,7 +25,16 @@
     * Draft는 JavaScript 구조와 다른 새로운 구조를 만들었다.
     * 대규모 프로젝트에 적합하다.
 
-#### 기능 추가 및 혁신의 자유로움을 사용하기 위해서 변환언어를 선택하지만 결국 모두 JavaScript로 트랜스파일링하여 사용한다.
+**기능 추가 및 혁신의 자유로움을 사용하기 위해서 변환언어를 선택하지만 결국 모두 JavaScript로 트랜스파일링하여 사용한다.**
+
+## Advantage
+
+* 익숙함
+    * [컴파일시점의 타입체크](https://scotch.io/tutorials/from-javascript-to-typescript-pt-i-types-variables), [인터페이스](https://scotch.io/tutorials/from-javascript-to-typescript-pt-iia-using-classes-interfaces-mixins), [클래스](https://scotch.io/tutorials/from-javascript-to-typescript-pt-iib-designing-with-classes-interfaces-mixins) 기반의 디자인 패턴 등은 다른 언어 기반에서도 많은 개발자들에게 이미 익숙하다.
+* 커뮤니티의 지원과 툴체인의 발전
+    * TypeScript 는 공식적으로 Microsoft 의 지원을 받는다. MS 에서는 TypeScript를 개발하기 위해 많은 시간을 들였고, 개발자들은 기술적인 거인들의 지원을 받으면서 편안하게 TypeScript를 접할 수 있다.
+* JavaScript 표준과 상호 호환
+    * JavaScript의 superset
 
 ## Reference
 

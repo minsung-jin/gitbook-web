@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [TypeScript](TypeScript/introduction.md)
+* [Web Development](README.md)
+* [Linux: user](Linux/user.md)
+* [TypeScript: introduction](TypeScript/introduction.md)
